@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roshan Kumar Sinha</h1> 
 <h3 align="center">Aspiring Data Scientist with BSc.Physics(honours)</h3> <img align="center" alt="Aspiring Data Scientist" width="400" src="https://camo.githubusercontent.com/76ce88ff28bafd25d82d7faf18a6fe762079b79a34472a7c8067e2f1ca55e40f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f48364b75735a38707a787479796d626c6e452f67697068792e676966"> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshancharlie&label=Profile%20views&color=0e75b6&style=flat" alt="roshancharlie" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshancharlie&label=PROFILE+VIEWS"/> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshancharlie" alt="roshancharlie" /></a> </p> 
 <details> <summary><samp>&#9776;</samp> Click for List of Project <i>(click to expand) 🔗 
 </i> </summary> 

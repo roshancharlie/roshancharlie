@@ -16,7 +16,7 @@
 |04| [*Imdb Review Sentiment Analysis*](https://github.com/roshancharlie/Imdb-Review-Sentiment-Analysis) | 
 |05| [*TATA Motors Stock Close Price Prediction Model*](https://github.com/roshancharlie/TATA-Motors-Close-Price-Prediction) | 
 |06| [*Web Scraping With IMDB data Using Python*](https://github.com/roshancharlie/Python-Code) | 
-|07| [*Hackerearth Predict The Price Challenge*](https://github.com/roshancharlie/Hackereearth-Predict-The-Price-Challenge) | 
+|07| [*Hindi To English Transliteration Model*](https://github.com/roshancharlie/Hindi-To-English-Transliteration-Model) | 
 |08| [*Sales Dashboard in Power B.I.*](https://github.com/roshancharlie/Sales-Dashboard-Power-B.I.) | 
 |09| [*Bank Churn Analysis In Power B.I.*](https://github.com/roshancharlie/Bank-Churn-Analysis-Power-B.I.) | 
 

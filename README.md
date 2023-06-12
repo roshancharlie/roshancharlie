@@ -9,26 +9,24 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshancharlie" alt="roshancharlie" /></a> </p> 
 
-<details> <summary><samp>&#9776;</samp> Click for List of Project <i>(click to expand) 🔗 
-</i> </summary> 
-<br> 
 
-📜Projects
+
+# 📜Projects
 
 |No|   Title   | 
 |--|-----------| 
 |01| [*Myntra Discount Prediction Model*](https://github.com/roshancharlie/Myntra-Discount-Prediction-Model) | 
-|02| [*Telecom Churn Classification Model*](https://github.com/roshancharlie/Telecom-Churn-Classification-Model) | 
+|02| [*College Chatbot Using ML Algorithm and NLTK*](https://github.com/roshancharlie/College-Chatbot-Using-ML-and-NLP) | 
 |03| [*Miniature IMDB Application.*](https://github.com/roshancharlie/Mini-Imdb-Application) | 
 |04| [*Hindi To English Transliteration Model*](https://github.com/roshancharlie/Hindi-To-English-Transliteration-Model) |
 |05| [*TATA Motors Stock Close Price Prediction Model*](https://github.com/roshancharlie/TATA-Motors-Close-Price-Prediction) | 
 |06| [*Web Scraping With IMDB data Using Python*](https://github.com/roshancharlie/Python-Code) | 
 |07| [*Imdb Review Sentiment Analysis*](https://github.com/roshancharlie/Imdb-Review-Sentiment-Analysis) | 
-|08| [*College Chatbot Using ML Algorithm and NLTK*](https://github.com/roshancharlie/College-Chatbot-Using-ML-and-NLP) |
+|08| [*Telecom Churn Classification Model*](https://github.com/roshancharlie/Telecom-Churn-Classification-Model) |
 |09| [*Sales Dashboard in Power B.I.*](https://github.com/roshancharlie/Sales-Dashboard-Power-B.I.) | 
 |10| [*Bank Churn Analysis In Power B.I.*](https://github.com/roshancharlie/Bank-Churn-Analysis-Power-B.I.) | 
 
-</details> 
+
 
 - 💬 Ask me about **Statistics,Machine learning & Physics** 
 - 📫 You can follow me on Linkedin: **https://www.linkedin.com/in/roshan-sinha/** 

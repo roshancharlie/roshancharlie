@@ -1,7 +1,24 @@
-<h1 align="center">Hi 👋, I'm Roshan Kumar Sinha</h1> 
-<h3 align="center">Aspiring Data Scientist with BSc.Physics(honours)</h3> <img align="center" alt="Aspiring Data Scientist" width="400" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"> 
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">, I'm Roshan Kumar Sinha</h1> 
+<h3 align="center">Aspiring Data Scientist | B.Sc Physics Student | Python Enthusiast</h3> 
 
-<p align="center">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> Physics by day, Data Ninja by night! 🎯 Unleashing the power of numbers and algorithms to conquer the data universe! 💥
+
+<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px" /> Passionate about Physics, Mathematics, and the art of turning data into gold! 💬 Ask me about **Statistics,Machine learning & Physics**
+
+<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px" /> I m Currently Learning About Machine Learning, Transformers and Neural Networks to Level up My Data Game 🎯
+
+<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20px" /> You can follow me on Linkedin: **https://www.linkedin.com/in/roshan-sinha/** 📫
+<table>
+  <tr>
+    <td>
+      <img align="center" alt="Aspiring Data Scientist" width="400" height="400" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
+    </td>
+    <td>
+      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="400" height="400">
+    </td>
+  </tr>
+</table>
+
   <a href="https://github.com/roshancharlie">
     <img src="https://komarev.com/ghpvc/?username=roshancharlie&color=blue&style=flat)" />
   </a>
@@ -28,8 +45,8 @@
 
 
 
-- 💬 Ask me about **Statistics,Machine learning & Physics** 
-- 📫 You can follow me on Linkedin: **https://www.linkedin.com/in/roshan-sinha/** 
+-  
+- 
 
 <div align="center"> 
   <h3>Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a></h3> 

@@ -8,6 +8,8 @@
 <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px" /> I m Currently Learning About Machine Learning, Transformers and Neural Networks to Level up My Data Game 🎯
 
 <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20px" /> You can follow me on Linkedin: **https://www.linkedin.com/in/roshan-sinha/** 📫
+
+
 <table>
   <tr>
     <td>
@@ -18,6 +20,7 @@
     </td>
   </tr>
 </table>
+
 
   <a href="https://github.com/roshancharlie">
     <img src="https://komarev.com/ghpvc/?username=roshancharlie&color=blue&style=flat)" />
@@ -44,9 +47,6 @@
 |10| [*Bank Churn Analysis In Power B.I.*](https://github.com/roshancharlie/Bank-Churn-Analysis-Power-B.I.) | 
 
 
-
--  
-- 
 
 <div align="center"> 
   <h3>Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a></h3> 

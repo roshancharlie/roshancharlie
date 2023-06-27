@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">, I'm Roshan Kumar Sinha</h1> 
-<h3 align="center">Aspiring Data Scientist | B.Sc Physics Student | Python Enthusiast</h3> 
+<h3 align="center">Aspiring Data Scientist | B.Sc Physics Student | Python & ML Enthusiast</h3> 
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> Physics by day, Data Ninja by night! 🎯 Unleashing the power of numbers and algorithms to conquer the data universe! 💥
 

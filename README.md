@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td>
-      <img align="center" alt="Aspiring Data Scientist" width="400" height="400" src="      <img align="center" alt="Aspiring Data Scientist" width="400" height="400" src="https://giphy.com/gifs/gigabyte-official-ai-machine-learning-gigabyte-iPj5oRtJzQGxwzuCKV">
+      <img align="center" alt="Aspiring Data Scientist" width="400" height="400" src="      <img align="center" alt="Aspiring Data Scientist" width="400" height="400" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe5658e59-9617-4ff8-bc76-880c9b3aa77f_722x472.gif">
     </td>
     <td>
       <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="400" height="400">

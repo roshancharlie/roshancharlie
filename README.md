@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td>
-      <img align="center" alt="Aspiring Data Scientist" width="400" height="400" src="      <img align="center" alt="Aspiring Data Scientist" width="400" height="400" src="https://giphy.com/embed/iPj5oRtJzQGxwzuCKV" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gigabyte-official-ai-machine-learning-gigabyte-iPj5oRtJzQGxwzuCKV">
+      <img align="center" alt="Aspiring Data Scientist" width="400" height="400" src="      <img align="center" alt="Aspiring Data Scientist" width="400" height="400" src="https://giphy.com/gifs/gigabyte-official-ai-machine-learning-gigabyte-iPj5oRtJzQGxwzuCKV">
     </td>
     <td>
       <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="400" height="400">

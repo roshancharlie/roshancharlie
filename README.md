@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td>
-      <img align="center" alt="Aspiring Data Scientist" width="400" height="400" src="https://cdn-images-1.medium.com/v2/resize:fit:2600/0*PuscwCsUr09xZ0SJ.gif">
+      <img align="center" alt="Aspiring Data Scientist" width="400" height="400" src="      <img align="center" alt="Aspiring Data Scientist" width="400" height="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Fpost%2FCan_an_algorithm_come_into_control_and_possession_of_data_without_the_knowledge_of_or_input_from_a_human_programmer&psig=AOvVaw0LgPnQRDINK_BH2qU_cBOH&ust=1734208789676000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKia-qjNpYoDFQAAAAAdAAAAABAZhttps://cdn-images-1.medium.com/v2/resize:fit:2600/0*PuscwCsUr09xZ0SJ.gif">">
     </td>
     <td>
       <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="400" height="400">

@@ -75,8 +75,18 @@
   <a href="https://github.com/roshancharlie?tab=repositories&language=python" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"></a>
 </p>
 <h3 align="center">📊 GitHub Stats</h3>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=roshancharlie&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats">
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshancharlie&theme=dark&hide_border=false" alt="GitHub Streak">
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshancharlie&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats"><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshancharlie&theme=dark&hide_border=false" alt="GitHub Streak"><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshancharlie&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages">
 </p>

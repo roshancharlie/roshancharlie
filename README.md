@@ -7,7 +7,7 @@
 
 <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px" /> Turning AI complexity into seamless solutions—LLMs, vision, and recommendations that just work.
 
-<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20px" /> You can follow me on Linkedin: **https://www.linkedin.com/in/roshan-sinha/**
+<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20px" /> You can follow me on Linkedin: **(Click Here)[https://www.linkedin.com/in/roshan-sinha/]**
 
 
 <table>

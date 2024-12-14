@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=roshancharlie&theme=onestar&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=roshancharlie&&theme=monokai&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -69,6 +69,11 @@
   <a href="https://github.com/roshancharlie?tab=repositories&language=python" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
   <a href="https://github.com/roshancharlie?tab=repositories&language=python" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
   <a href="https://github.com/roshancharlie?tab=repositories&language=python" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"></a>
+  <a href="https://github.com/roshancharlie?tab=repositories&language=python" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"></a>
+  <a href="https://github.com/roshancharlie?tab=repositories&language=python" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+  <a href="https://github.com/roshancharlie?tab=repositories&language=python" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a href="https://github.com/roshancharlie?tab=repositories&language=python" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white"></a>
+  <a href="https://github.com/roshancharlie?tab=repositories&language=python" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"></a>
 </p>
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">

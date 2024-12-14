@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">, I'm Roshan Kumar Sinha</h1> 
-<h3 align="center"> ML Engineer | B.Sc Physics Graduate | Python & ML Enthusiast</h3> 
+<h3 align="center"> ML Engineer | B.Sc Physics | AI & LLM Enthusiast</h3> 
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> Machine Learning by day, Physics by night! 🎯
 
 <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px" /> Ask me about **Statistics,Machine learning & Physics**
 
-<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px" /> Let's Learn !!!!!
+<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px" /> Turning AI complexity into seamless solutions—LLMs, vision, and recommendations that just work.
 
 <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20px" /> You can follow me on Linkedin: **https://www.linkedin.com/in/roshan-sinha/**
 

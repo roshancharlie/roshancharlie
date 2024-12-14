@@ -24,8 +24,6 @@
   </tr>
 </table>
 
----
-
 <p align="center">
   <a href="https://github.com/roshancharlie">
     <img src="https://komarev.com/ghpvc/?username=roshancharlie&color=blue&style=flat)" alt="Profile Views Counter" />
@@ -38,8 +36,6 @@
   </a>
 </p>
 
----
-
 <div align="center"> 
   <h3>Connect with Me <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a></h3>
   <p>
@@ -50,8 +46,6 @@
     <a href="https://github.com/roshancharlie" target="_blank"><img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="GitHub" width="25px"></a>
   </p>
 </div>
-
----
 
 <h3 align="left">Languages and Tools:</h3> 
 <p align="center">

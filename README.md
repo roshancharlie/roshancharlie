@@ -57,7 +57,7 @@
   </p> 
   <p align="center">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=roshancharlie&theme=jolly&show_icons=true" alt="Roshan's Github readme stats">
-    <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=roshancharlie&&theme=jolly&show_icons=true" alt="roshancharlie"/>
+    <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?username=roshancharlie&&theme=jolly&show_icons=true" alt="roshancharlie"/>
   </p>
 </div>
 

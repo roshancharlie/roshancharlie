@@ -62,8 +62,13 @@
   <a href="https://github.com/roshancharlie/Python-Code" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white"></a>
   <a href="https://github.com/roshancharlie/Python-Code" target="_blank"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75?style=flat-square&logo=plotly&logoColor=white"></a>
   <a href="https://github.com/roshancharlie/Machine-Learning-Practise-Project" target="_blank"><img alt="ScikitLearn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"></a>
-  <a href="https://github.com/milaan9/93_Python_Data_Analytics_Projects" target="_blank"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5?style=flat-square&logo=scipy&logoColor=white"></a>
-  <a href="https://github.com/milaan9?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
+  <a href="https://github.com/roshancharlie/93_Python_Data_Analytics_Projects" target="_blank"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5?style=flat-square&logo=scipy&logoColor=white"></a>
+  <a href="https://github.com/roshancharlie?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
+  <a href="https://github.com/roshancharlie?tab=repositories&language=python" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black"></a>
+  <a href="https://github.com/roshancharlie?tab=repositories&language=python" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
+  <a href="https://github.com/roshancharlie?tab=repositories&language=python" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+  <a href="https://github.com/roshancharlie?tab=repositories&language=python" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
+  <a href="https://github.com/roshancharlie?tab=repositories&language=python" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"></a>
 </p>
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">

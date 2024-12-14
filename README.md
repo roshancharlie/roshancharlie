@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=roshancharlie&&theme=monokai&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=roshancharlie&&theme=monokai" alt="GitHub Trophies" />
   </a>
 </p>
 

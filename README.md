@@ -51,13 +51,14 @@
     <a href="https://github.com/milaan9/93_Python_Data_Analytics_Projects" target="_blank"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5?style=flat-square&logo=scipy&logoColor=white"></a>
     <a href="https://github.com/milaan9?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
   </p> 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshancharlie&show_icons=true&locale=en&layout=compact" alt="roshancharlie">
-    
-  </p> 
-  <p align="center">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=roshancharlie&theme=jolly&show_icons=true" alt="Roshan's Github readme stats">
-    <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?username=roshancharlie&&theme=jolly&show_icons=true" alt="roshancharlie"/>
-  </p>
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=roshancharlie&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=roshancharlie&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=roshancharlie&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=roshancharlie&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=roshancharlie&icon=0&color=0)](https://visitcount.itsvg.in)
 

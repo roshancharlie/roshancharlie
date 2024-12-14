@@ -65,18 +65,9 @@
   <a href="https://github.com/milaan9/93_Python_Data_Analytics_Projects" target="_blank"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5?style=flat-square&logo=scipy&logoColor=white"></a>
   <a href="https://github.com/milaan9?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
 </p>
-
----
-
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roshancharlie&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats"><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshancharlie&theme=dark&hide_border=false" alt="GitHub Streak"><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshancharlie&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages">
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=roshancharlie&icon=0&color=0" alt="Profile Visits">
 </p>
